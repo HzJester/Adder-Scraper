@@ -19,7 +19,7 @@
 > pip install telethon
 > cd
 > ls
-> git clone https://github.com/HsJester/adder-scraper.git
+> git clone https://github.com/HzJester/adder-scraper.git
 > cd
 > ls
 > cd adder-scraper
